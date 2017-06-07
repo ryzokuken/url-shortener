@@ -1,0 +1,13 @@
+{
+  "name": "url-shortener",
+  "scripts": {
+    "start": "node server"
+  },
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Ujjwal Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
